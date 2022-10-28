@@ -1,4 +1,5 @@
 
-let variavel = 10 / 10;
+const numero = 10
+const numeroEmTexto = '10'
 
-console.log(variavel);
+console.log(numero === numeroEmTexto);
