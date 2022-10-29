@@ -9,5 +9,6 @@ Nesse módulo aprendi sobre:
 - Listas (Arrays)
 - Objetos
 - Variaveis e Operadores
+- Importanção
 
 Contém também alguns exercícios feitos acompanhando o professor Renan.
